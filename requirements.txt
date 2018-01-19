@@ -1,0 +1,6 @@
+gensim
+nltk
+sklearn
+numpy
+scipy
+
